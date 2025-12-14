@@ -12,7 +12,9 @@ Este projeto é um formulário de inscrição responsivo, desenvolvido durante o
 - Layout responsivo e estilizado com efeitos de hover
 
 ## Como usar
+Acesse: https://leo-matheus.github.io/Formulario-de-Inscricao/
+
+Ou
 
 1. Clone ou baixe este repositório.
 2. Abra o arquivo `index.html` em seu navegador.
-3. Preencha o formulário e clique em **Confirmar**.
